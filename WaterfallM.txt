@@ -1,0 +1,5 @@
+In the waterfall model each phase must be completed fully before the next phase can begin, at the end of each phase, a review takes place to determine if the project is on the right path and whether or not to continue or discard the project. The waterfall model is usually utilized in small projects where requirements are uncertain.
+The sequential phases in Waterfall model are:
+? Requirement Gathering and analysis: All possible requirements of the system to be developed are captured in this phase and documented in a requirement specification doc.
+? System Design: The requirement specifications from first phase are studied in this phase and system design is prepared. System Design helps in specifying hardware and system requirements and also helps in defining overall system architecture.
+? Implementation: With inputs from system design, the system is first developed in small programs called units, which are integrated in the next phase. Each unit is developed and tested for its functionality which is referred to as Unit Testing.
